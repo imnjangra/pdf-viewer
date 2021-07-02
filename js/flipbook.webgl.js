@@ -1,6 +1,3 @@
-/* v 3.7.9
-author http://codecanyon.net/user/creativeinteractivemedia/portfolio?ref=creativeinteractivemedia
-*/
 var FLIPBOOK = FLIPBOOK || {};
 
 { /* FLIPBOOK.PageWebGL */
